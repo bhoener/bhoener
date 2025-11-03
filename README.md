@@ -6,6 +6,10 @@
 ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white)\
 thanks @someonecantcode !
 
+# My GitHub Pages
+
+https://trickshotblaster.github.io
+
 # My Interests
 - 👀 I’m interested in lots of things, but mostly programming, deep learning in pytorch, and 3d art, as well as game design
 
