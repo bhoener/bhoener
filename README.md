@@ -5,7 +5,7 @@ thanks @someonecantcode !
 
 # My GitHub Pages
 
-https://trickshotblaster.github.io
+https://bhoener.github.io
 
 # My Interests
 - 👀 I’m interested in lots of things, but mostly programming, deep learning in pytorch, and 3d art, as well as game design
@@ -16,7 +16,7 @@ https://trickshotblaster.github.io
 # Languages and Tools
 - I do most of my work in python, though I do enjoy web dev from time to time. I use PyTorch for deep learning and train tiny but powerful models on my own GPU.
 
-[![Trickshotblaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trickshotblaster&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Trickshotblaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoener&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 A C Like the programming language :)
 The only way to go is up!
