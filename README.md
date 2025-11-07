@@ -1,7 +1,4 @@
-<h1>Trickshotblaster</h1>
-
-(aka brogrammer)
-
+<h1>brogrammer</h1>
 
 ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white)\
 thanks @someonecantcode !
