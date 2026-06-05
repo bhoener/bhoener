@@ -3,18 +3,25 @@
 ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white)\
 thanks @someonecantcode !
 
-# My GitHub Pages
+# My GitHub Pages :book:
 
-https://bhoener.github.io
+---
+## https://bhoener.github.io
+---
 
-# My Interests
-- 👀 I’m interested in lots of things, but mostly programming, deep learning in pytorch, and 3d art, as well as game design
+# My Interests :dart:
 
-# What I'm Working On
-- 🌱 I’m currently learning about RWKV models and RLHF with Group Relative Policy Optimization from the deepseek-r1 paper (https://arxiv.org/abs/2501.12948). Here is a kaggle notebook I made with a simple implementation: https://www.kaggle.com/code/br0grammer/group-relative-policy-optimization. I highly recommend Andrej Karpathy's Zero to Hero series on neural nets for anyone who wants to get started in deep learning!
+I do anything ML-related and occasionaly web dev or game design. I'm most experienced with NLP and transformers, but I've recently been trying to dabble in image models and Flow Matching. 
+
+# What I'm Working On 💻
+
+- Image Models (Flow Matching)
+- Learning C++/Data Structures
 
 # Languages and Tools
-- I do most of my work in python, though I do enjoy web dev from time to time. I use PyTorch for deep learning and train tiny but powerful models on my own GPU.
+
+![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=f5f5f5) ![Static Badge](https://img.shields.io/badge/cpp-blue?logo=cplusplus&logoColor=f5f5f5) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+
 
 [![Trickshotblaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoener&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
